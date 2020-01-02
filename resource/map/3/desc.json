@@ -1,0 +1,14 @@
+{
+    "time":60,
+    "teach":0,
+    "maxGold":35,
+    "germTotal":35,
+    "germMinSafe":10,
+    "germMaxSafe":18,
+    "addGold":4,
+    "plateTotal":15,
+    "qua":[[6, 8], [3, 5], [0, 2]],
+    "unlock":201,
+    "proplib":[101, 301, 201, 303],
+    "fortpos":{"x":650, "y":525, "r":[45, 135]}
+}

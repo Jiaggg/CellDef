@@ -1,0 +1,6 @@
+{"file":"login.png","frames":{
+"login_logo":{"x":0,"y":0,"w":893,"h":232,"offX":120,"offY":10,"sourceW":1080,"sourceH":256},
+"sound_close":{"x":895,"y":0,"w":70,"h":70,"offX":0,"offY":0,"sourceW":70,"sourceH":70},
+"sound_open":{"x":895,"y":72,"w":70,"h":70,"offX":0,"offY":0,"sourceW":70,"sourceH":70},
+"login_start_d":{"x":895,"y":144,"w":62,"h":76,"offX":9,"offY":11,"sourceW":78,"sourceH":96},
+"login_start_u":{"x":959,"y":144,"w":62,"h":76,"offX":9,"offY":11,"sourceW":78,"sourceH":96}}}

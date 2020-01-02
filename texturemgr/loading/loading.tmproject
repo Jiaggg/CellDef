@@ -1,0 +1,17 @@
+{
+    "options": {
+        "layoutMath": "1",
+        "sizeMode": "free",
+        "useExtension": 0,
+        "layoutGap": 1,
+        "extend": 0
+    },
+    "projectName": "loading",
+    "files": [
+        "./loading_4.png",
+        "./loading_3.png",
+        "./loading_2.png",
+        "./loading_1.png"
+    ],
+    "version": 5
+}

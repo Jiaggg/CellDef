@@ -1,0 +1,15 @@
+{
+    "projectName": "core",
+    "files": [
+        "./msg_back.png",
+        "./loading_1.png"
+    ],
+    "options": {
+        "layoutMath": "3",
+        "sizeMode": "free",
+        "useExtension": 0,
+        "layoutGap": 1,
+        "extend": 0
+    },
+    "version": 5
+}

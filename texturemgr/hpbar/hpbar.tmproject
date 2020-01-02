@@ -1,0 +1,21 @@
+{
+    "projectName": "hpbar",
+    "files": [
+        "./hp_back_2.png",
+        "./hp_back_1.png",
+        "./hp_error.png",
+        "./hp_frame.png",
+        "./hp_title.png",
+        "./hp_type_1.png",
+        "./hp_type_2.png",
+        "./hp_warning.png"
+    ],
+    "options": {
+        "layoutMath": "3",
+        "sizeMode": "free",
+        "useExtension": 0,
+        "layoutGap": 1,
+        "extend": 0
+    },
+    "version": 5
+}

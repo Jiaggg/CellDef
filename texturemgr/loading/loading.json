@@ -1,0 +1,5 @@
+{"file":"loading.png","frames":{
+"loading_1":{"x":73,"y":73,"w":65,"h":71,"offX":3,"offY":0,"sourceW":72,"sourceH":71},
+"loading_2":{"x":0,"y":67,"w":71,"h":65,"offX":0,"offY":3,"sourceW":72,"sourceH":71},
+"loading_3":{"x":73,"y":0,"w":65,"h":71,"offX":3,"offY":0,"sourceW":72,"sourceH":71},
+"loading_4":{"x":0,"y":0,"w":71,"h":65,"offX":0,"offY":3,"sourceW":72,"sourceH":71}}}

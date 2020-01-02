@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PauseFrameSkin" width="1920" height="1080" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16e5418622d" ></w:Config>
+	<e:Rect width="100%" height="100%" fillColor="0xffffff" strokeColor="0xffffff" fillAlpha="0.6" strokeAlpha="0.6" touchChildren="false" touchEnabled="false"/>
+	<e:Image source="pause_json.play_back" y="352" touchEnabled="false" x="548"/>
+	<e:Button id="replayBtn" label="" y="479" x="685">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image source="pause_json.play_replay" source.down="pause_json.play_replay_un"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="startBtn" label="" y="485" x="915">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image source="pause_json.play_star" source.down="pause_json.play_star_un"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="menuBtn" label="" y="485" x="1110">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image source="pause_json.play_menu" source.down="pause_json.play_menu_un"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

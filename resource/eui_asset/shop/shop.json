@@ -1,0 +1,6 @@
+{"file":"shop.png","frames":{
+"shop_back_d":{"x":0,"y":343,"w":58,"h":82,"offX":15,"offY":0,"sourceW":89,"sourceH":82},
+"shop_back_u":{"x":164,"y":0,"w":58,"h":82,"offX":15,"offY":0,"sourceW":89,"sourceH":82},
+"shop_lock_d":{"x":0,"y":159,"w":116,"h":182,"offX":0,"offY":0,"sourceW":116,"sourceH":183},
+"shop_lock_u":{"x":118,"y":159,"w":115,"h":182,"offX":0,"offY":0,"sourceW":115,"sourceH":183},
+"shop_star":{"x":0,"y":0,"w":162,"h":157,"offX":0,"offY":0,"sourceW":162,"sourceH":157}}}

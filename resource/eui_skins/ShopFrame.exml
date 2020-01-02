@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ShopFrameSkin" width="1920" height="1080" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16e18872265" ></w:Config>
+	<e:Button id="backBtn" label="" x="190.67" y="907.87">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image source="shop_json.shop_back_u" source.down="shop_json.shop_back_d" />
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Scroller id="scroller" width="1920" height="710" x="0" y="151.67">
+		<e:DataGroup id="itemGroup">
+			<e:layout>
+				<e:HorizontalLayout gap="10"/>
+			</e:layout>
+		</e:DataGroup>
+	</e:Scroller>
+</e:Skin>

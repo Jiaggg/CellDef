@@ -1,0 +1,18 @@
+{
+    "projectName": "shop",
+    "files": [
+        "./shop_star.png",
+        "./shop_lock_u.png",
+        "./shop_lock_d.png",
+        "./shop_back_u.png",
+        "./shop_back_d.png"
+    ],
+    "options": {
+        "layoutMath": "3",
+        "sizeMode": "free",
+        "useExtension": 0,
+        "layoutGap": 1,
+        "extend": 0
+    },
+    "version": 5
+}
