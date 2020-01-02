@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="PriceBarSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  height="90" width="400">
-	<e:Image y="-17" source="toolbar_json.tool_back_2" touchEnabled="false" x="-23" height="120" width="455" scale9Grid="88,36,91,33"/>
-	<e:BitmapLabel id="priceTxt" font="small_big_fnt" text="0x0" height="90" touchEnabled="false" anchorOffsetX="0" width="400" letterSpacing="10"/>
-</e:Skin>

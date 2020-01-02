@@ -1,9 +1,0 @@
-{"file":"hpbar.png","frames":{
-"hp_warning":{"x":0,"y":286,"w":416,"h":30,"offX":1,"offY":0,"sourceW":419,"sourceH":30},
-"hp_type_2":{"x":0,"y":318,"w":410,"h":24,"offX":2,"offY":3,"sourceW":419,"sourceH":30},
-"hp_type_1":{"x":0,"y":344,"w":410,"h":24,"offX":2,"offY":3,"sourceW":419,"sourceH":30},
-"hp_title":{"x":411,"y":111,"w":94,"h":69,"offX":0,"offY":0,"sourceW":95,"sourceH":69},
-"hp_frame":{"x":0,"y":254,"w":419,"h":30,"offX":0,"offY":0,"sourceW":419,"sourceH":30},
-"hp_error":{"x":0,"y":0,"w":280,"h":252,"offX":0,"offY":0,"sourceW":280,"sourceH":252},
-"hp_back_1":{"x":411,"y":0,"w":73,"h":109,"offX":8,"offY":0,"sourceW":87,"sourceH":109},
-"hp_back_2":{"x":282,"y":0,"w":127,"h":111,"offX":0,"offY":0,"sourceW":134,"sourceH":111}}}

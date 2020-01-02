@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="NewPorpFrameSkin" width="1920" height="1080" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
-	<w:Config id="16e84b7b614" ></w:Config>
-	<e:Rect width="100%" height="100%" fillAlpha="0.6" strokeAlpha="0.6" fillColor="0xffffff" strokeColor="0xffffff" touchChildren="false" touchEnabled="false"/>
-	<e:Image id="backImg_1" width="1920" height="1080" horizontalCenter="0" verticalCenter="0"/>
-	<e:Image id="backImg_2" width="1920" height="1080" horizontalCenter="0" verticalCenter="0"/>
-	<e:Image id="tipImg" horizontalCenter="0" verticalCenter="0"/>
-	<e:Label text="点击任意处关闭" y="1023.85" fontFamily="SimHei" textColor="0x000000" size="35" strokeColor="0x7f7f7f" width="300" textAlign="center" x="810" height="35"/>
-</e:Skin>
