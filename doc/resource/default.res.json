@@ -1,0 +1,1031 @@
+{
+	"groups": [
+		{
+			"keys": "roundthumb_png,track_sb_png,config_data_json,small_big_fnt,num_small_fnt,core_json",
+			"name": "preload"
+		},
+		{
+			"keys": "login_json,login_back_png",
+			"name": "login"
+		},
+		{
+			"keys": "301_json,301_png,cell_1_png,cell_2_png,cell_3_png,cell_4_png,boom_json,boom_png,fort_json,fort_png,water_png,water_1_png,water_2_png,water_3_png,water_4_png,water_5_png,water_6_png,g_302_json,g_302_png,303_json,303_png,304_json,304_png,401_json,401_png",
+			"name": "map"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "eui_asset/level/level.json",
+			"type": "sheet",
+			"name": "level_json",
+			"subkeys": "level_left_d,level_left_u,level_shop_d,level_shop_u,level_star_got,level_star_ungot,level_t_1,level_t_2,level_t_3,level_t_4,level_t_5,level_t_6,level_t_7"
+		},
+		{
+			"url": "eui_asset/shop/shop.json",
+			"type": "sheet",
+			"name": "shop_json",
+			"subkeys": "shop_back_d,shop_back_u,shop_lock_d,shop_lock_u,shop_star"
+		},
+		{
+			"url": "eui_asset/login/login.json",
+			"type": "sheet",
+			"name": "login_json",
+			"subkeys": "login_logo,login_start_d,login_start_u,sound_close,sound_open"
+		},
+		{
+			"url": "eui_asset/login/login_back.png",
+			"type": "image",
+			"name": "login_back_png"
+		},
+		{
+			"url": "config_data.json",
+			"type": "json",
+			"name": "config_data_json"
+		},
+		{
+			"url": "bitnum/num_small.fnt",
+			"type": "font",
+			"name": "num_small_fnt"
+		},
+		{
+			"url": "bitnum/small_big.fnt",
+			"type": "font",
+			"name": "small_big_fnt"
+		},
+		{
+			"url": "eui_asset/core/core.json",
+			"type": "sheet",
+			"name": "core_json",
+			"subkeys": "loading_1,msg_back"
+		},
+		{
+			"url": "eui_asset/mapui/toolbar.json",
+			"type": "sheet",
+			"name": "toolbar_json",
+			"subkeys": "101,101_un,201,201_un,301,301_un,302,302_un,303,303_un,304,304_un,401,401_un,402,402_un,403,403_un,play_pause,play_pause_un,tool_back_1,tool_back_2,tool_bar"
+		},
+		{
+			"url": "eui_asset/pause/pause.json",
+			"type": "sheet",
+			"name": "pause_json",
+			"subkeys": "play_back,play_menu,play_menu_un,play_replay,play_replay_un,play_star,play_star_un"
+		},
+		{
+			"url": "eui_asset/hp/hpbar.json",
+			"type": "sheet",
+			"name": "hpbar_json",
+			"subkeys": "hp_back_1,hp_back_2,hp_error,hp_frame,hp_title,hp_type_1,hp_type_2,hp_warning"
+		},
+		{
+			"url": "eui_asset/result/result.json",
+			"type": "sheet",
+			"name": "result_json",
+			"subkeys": "res_back_d,res_back_u,res_fail_title,res_menu_d,res_menu_u,res_next_d,res_next_u,res_star_d,res_star_u,res_succ_title"
+		},
+		{
+			"url": "eui_asset/result/res_board.png",
+			"type": "image",
+			"name": "res_board_png"
+		},
+		{
+			"url": "eui_asset/result/res_fail_tips.png",
+			"type": "image",
+			"name": "res_fail_tips_png"
+		},
+		{
+			"url": "eui_asset/result/res_succ_tips.png",
+			"type": "image",
+			"name": "res_succ_tips_png"
+		},
+		{
+			"url": "result/fail_2_1.png",
+			"type": "image",
+			"name": "fail_2_1_png"
+		},
+		{
+			"url": "result/fail_2_2.png",
+			"type": "image",
+			"name": "fail_2_2_png"
+		},
+		{
+			"url": "result/fail_2_3.png",
+			"type": "image",
+			"name": "fail_2_3_png"
+		},
+		{
+			"url": "result/fail_2_4.png",
+			"type": "image",
+			"name": "fail_2_4_png"
+		},
+		{
+			"url": "result/fail_2_5.png",
+			"type": "image",
+			"name": "fail_2_5_png"
+		},
+		{
+			"url": "result/fail_2_6.png",
+			"type": "image",
+			"name": "fail_2_6_png"
+		},
+		{
+			"url": "result/fail_2_7.png",
+			"type": "image",
+			"name": "fail_2_7_png"
+		},
+		{
+			"url": "result/fail_3_1.png",
+			"type": "image",
+			"name": "fail_3_1_png"
+		},
+		{
+			"url": "result/fail_3_2.png",
+			"type": "image",
+			"name": "fail_3_2_png"
+		},
+		{
+			"url": "result/fail_3_3.png",
+			"type": "image",
+			"name": "fail_3_3_png"
+		},
+		{
+			"url": "result/fail_3_4.png",
+			"type": "image",
+			"name": "fail_3_4_png"
+		},
+		{
+			"url": "result/fail_3_5.png",
+			"type": "image",
+			"name": "fail_3_5_png"
+		},
+		{
+			"url": "result/fail_3_6.png",
+			"type": "image",
+			"name": "fail_3_6_png"
+		},
+		{
+			"url": "result/fail_3_7.png",
+			"type": "image",
+			"name": "fail_3_7_png"
+		},
+		{
+			"url": "result/fail_4.png",
+			"type": "image",
+			"name": "fail_4_png"
+		},
+		{
+			"url": "result/succ_1.png",
+			"type": "image",
+			"name": "succ_1_png"
+		},
+		{
+			"url": "newprop/np_201.png",
+			"type": "image",
+			"name": "np_201_png"
+		},
+		{
+			"url": "newprop/np_302.png",
+			"type": "image",
+			"name": "np_302_png"
+		},
+		{
+			"url": "newprop/np_303.png",
+			"type": "image",
+			"name": "np_303_png"
+		},
+		{
+			"url": "newprop/np_304.png",
+			"type": "image",
+			"name": "np_304_png"
+		},
+		{
+			"url": "newprop/np_401.png",
+			"type": "image",
+			"name": "np_401_png"
+		},
+		{
+			"url": "newprop/np_402.png",
+			"type": "image",
+			"name": "np_402_png"
+		},
+		{
+			"url": "newprop/np_403.png",
+			"type": "image",
+			"name": "np_403_png"
+		},
+		{
+			"url": "newprop/np_b_1.png",
+			"type": "image",
+			"name": "np_b_1_png"
+		},
+		{
+			"url": "newprop/np_b_2.png",
+			"type": "image",
+			"name": "np_b_2_png"
+		},
+		{
+			"url": "avatar/301/301.json",
+			"type": "json",
+			"name": "301_json"
+		},
+		{
+			"url": "avatar/301/301.png",
+			"type": "image",
+			"name": "301_png"
+		},
+		{
+			"url": "avatar/201/cell_1.png",
+			"type": "image",
+			"name": "cell_1_png"
+		},
+		{
+			"url": "avatar/201/cell_2.png",
+			"type": "image",
+			"name": "cell_2_png"
+		},
+		{
+			"url": "avatar/201/cell_3.png",
+			"type": "image",
+			"name": "cell_3_png"
+		},
+		{
+			"url": "avatar/201/cell_4.png",
+			"type": "image",
+			"name": "cell_4_png"
+		},
+		{
+			"url": "avatar/boom/boom.png",
+			"type": "image",
+			"name": "boom_png"
+		},
+		{
+			"url": "avatar/boom/boom.json",
+			"type": "json",
+			"name": "boom_json"
+		},
+		{
+			"url": "avatar/fort/fort.png",
+			"type": "image",
+			"name": "fort_png"
+		},
+		{
+			"url": "avatar/fort/fort.json",
+			"type": "json",
+			"name": "fort_json"
+		},
+		{
+			"url": "avatar/101/water.png",
+			"type": "image",
+			"name": "water_png"
+		},
+		{
+			"url": "effect/water/water_1.png",
+			"type": "image",
+			"name": "water_1_png"
+		},
+		{
+			"url": "effect/water/water_2.png",
+			"type": "image",
+			"name": "water_2_png"
+		},
+		{
+			"url": "effect/water/water_3.png",
+			"type": "image",
+			"name": "water_3_png"
+		},
+		{
+			"url": "effect/water/water_4.png",
+			"type": "image",
+			"name": "water_4_png"
+		},
+		{
+			"url": "effect/water/water_5.png",
+			"type": "image",
+			"name": "water_5_png"
+		},
+		{
+			"url": "effect/water/water_6.png",
+			"type": "image",
+			"name": "water_6_png"
+		},
+		{
+			"url": "translate/102.png",
+			"type": "image",
+			"name": "102_png"
+		},
+		{
+			"url": "translate/106.png",
+			"type": "image",
+			"name": "106_png"
+		},
+		{
+			"url": "translate/110.png",
+			"type": "image",
+			"name": "110_png"
+		},
+		{
+			"url": "translate/114.png",
+			"type": "image",
+			"name": "114_png"
+		},
+		{
+			"url": "translate/118.png",
+			"type": "image",
+			"name": "118_png"
+		},
+		{
+			"url": "translate/122.png",
+			"type": "image",
+			"name": "122_png"
+		},
+		{
+			"url": "translate/126.png",
+			"type": "image",
+			"name": "126_png"
+		},
+		{
+			"url": "translate/130.png",
+			"type": "image",
+			"name": "130_png"
+		},
+		{
+			"url": "translate/134.png",
+			"type": "image",
+			"name": "134_png"
+		},
+		{
+			"url": "translate/138.png",
+			"type": "image",
+			"name": "138_png"
+		},
+		{
+			"url": "translate/142.png",
+			"type": "image",
+			"name": "142_png"
+		},
+		{
+			"url": "translate/146.png",
+			"type": "image",
+			"name": "146_png"
+		},
+		{
+			"url": "translate/150.png",
+			"type": "image",
+			"name": "150_png"
+		},
+		{
+			"url": "translate/154.png",
+			"type": "image",
+			"name": "154_png"
+		},
+		{
+			"url": "translate/158.png",
+			"type": "image",
+			"name": "158_png"
+		},
+		{
+			"url": "translate/162.png",
+			"type": "image",
+			"name": "162_png"
+		},
+		{
+			"url": "translate/166.png",
+			"type": "image",
+			"name": "166_png"
+		},
+		{
+			"url": "translate/170.png",
+			"type": "image",
+			"name": "170_png"
+		},
+		{
+			"url": "translate/174.png",
+			"type": "image",
+			"name": "174_png"
+		},
+		{
+			"url": "translate/178.png",
+			"type": "image",
+			"name": "178_png"
+		},
+		{
+			"url": "translate/182.png",
+			"type": "image",
+			"name": "182_png"
+		},
+		{
+			"url": "translate/186.png",
+			"type": "image",
+			"name": "186_png"
+		},
+		{
+			"url": "translate/190.png",
+			"type": "image",
+			"name": "190_png"
+		},
+		{
+			"url": "translate/194.png",
+			"type": "image",
+			"name": "194_png"
+		},
+		{
+			"url": "translate/198.png",
+			"type": "image",
+			"name": "198_png"
+		},
+		{
+			"url": "translate/202.png",
+			"type": "image",
+			"name": "202_png"
+		},
+		{
+			"url": "translate/206.png",
+			"type": "image",
+			"name": "206_png"
+		},
+		{
+			"url": "translate/210.png",
+			"type": "image",
+			"name": "210_png"
+		},
+		{
+			"url": "translate/214.png",
+			"type": "image",
+			"name": "214_png"
+		},
+		{
+			"url": "translate/218.png",
+			"type": "image",
+			"name": "218_png"
+		},
+		{
+			"url": "translate/22.png",
+			"type": "image",
+			"name": "22_png"
+		},
+		{
+			"url": "translate/222.png",
+			"type": "image",
+			"name": "222_png"
+		},
+		{
+			"url": "translate/226.png",
+			"type": "image",
+			"name": "226_png"
+		},
+		{
+			"url": "translate/230.png",
+			"type": "image",
+			"name": "230_png"
+		},
+		{
+			"url": "translate/234.png",
+			"type": "image",
+			"name": "234_png"
+		},
+		{
+			"url": "translate/238.png",
+			"type": "image",
+			"name": "238_png"
+		},
+		{
+			"url": "translate/242.png",
+			"type": "image",
+			"name": "242_png"
+		},
+		{
+			"url": "translate/246.png",
+			"type": "image",
+			"name": "246_png"
+		},
+		{
+			"url": "translate/250.png",
+			"type": "image",
+			"name": "250_png"
+		},
+		{
+			"url": "translate/254.png",
+			"type": "image",
+			"name": "254_png"
+		},
+		{
+			"url": "translate/258.png",
+			"type": "image",
+			"name": "258_png"
+		},
+		{
+			"url": "translate/26.png",
+			"type": "image",
+			"name": "26_png"
+		},
+		{
+			"url": "translate/262.png",
+			"type": "image",
+			"name": "262_png"
+		},
+		{
+			"url": "translate/266.png",
+			"type": "image",
+			"name": "266_png"
+		},
+		{
+			"url": "translate/270.png",
+			"type": "image",
+			"name": "270_png"
+		},
+		{
+			"url": "translate/274.png",
+			"type": "image",
+			"name": "274_png"
+		},
+		{
+			"url": "translate/278.png",
+			"type": "image",
+			"name": "278_png"
+		},
+		{
+			"url": "translate/282.png",
+			"type": "image",
+			"name": "282_png"
+		},
+		{
+			"url": "translate/286.png",
+			"type": "image",
+			"name": "286_png"
+		},
+		{
+			"url": "translate/290.png",
+			"type": "image",
+			"name": "290_png"
+		},
+		{
+			"url": "translate/294.png",
+			"type": "image",
+			"name": "294_png"
+		},
+		{
+			"url": "translate/298.png",
+			"type": "image",
+			"name": "298_png"
+		},
+		{
+			"url": "translate/30.png",
+			"type": "image",
+			"name": "30_png"
+		},
+		{
+			"url": "translate/302.png",
+			"type": "image",
+			"name": "302_png"
+		},
+		{
+			"url": "translate/306.png",
+			"type": "image",
+			"name": "306_png"
+		},
+		{
+			"url": "translate/310.png",
+			"type": "image",
+			"name": "310_png"
+		},
+		{
+			"url": "translate/314.png",
+			"type": "image",
+			"name": "314_png"
+		},
+		{
+			"url": "translate/318.png",
+			"type": "image",
+			"name": "318_png"
+		},
+		{
+			"url": "translate/322.png",
+			"type": "image",
+			"name": "322_png"
+		},
+		{
+			"url": "translate/326.png",
+			"type": "image",
+			"name": "326_png"
+		},
+		{
+			"url": "translate/330.png",
+			"type": "image",
+			"name": "330_png"
+		},
+		{
+			"url": "translate/334.png",
+			"type": "image",
+			"name": "334_png"
+		},
+		{
+			"url": "translate/338.png",
+			"type": "image",
+			"name": "338_png"
+		},
+		{
+			"url": "translate/34.png",
+			"type": "image",
+			"name": "34_png"
+		},
+		{
+			"url": "translate/342.png",
+			"type": "image",
+			"name": "342_png"
+		},
+		{
+			"url": "translate/346.png",
+			"type": "image",
+			"name": "346_png"
+		},
+		{
+			"url": "translate/350.png",
+			"type": "image",
+			"name": "350_png"
+		},
+		{
+			"url": "translate/354.png",
+			"type": "image",
+			"name": "354_png"
+		},
+		{
+			"url": "translate/358.png",
+			"type": "image",
+			"name": "358_png"
+		},
+		{
+			"url": "translate/362.png",
+			"type": "image",
+			"name": "362_png"
+		},
+		{
+			"url": "translate/366.png",
+			"type": "image",
+			"name": "366_png"
+		},
+		{
+			"url": "translate/370.png",
+			"type": "image",
+			"name": "370_png"
+		},
+		{
+			"url": "translate/374.png",
+			"type": "image",
+			"name": "374_png"
+		},
+		{
+			"url": "translate/378.png",
+			"type": "image",
+			"name": "378_png"
+		},
+		{
+			"url": "translate/38.png",
+			"type": "image",
+			"name": "38_png"
+		},
+		{
+			"url": "translate/382.png",
+			"type": "image",
+			"name": "382_png"
+		},
+		{
+			"url": "translate/386.png",
+			"type": "image",
+			"name": "386_png"
+		},
+		{
+			"url": "translate/390.png",
+			"type": "image",
+			"name": "390_png"
+		},
+		{
+			"url": "translate/394.png",
+			"type": "image",
+			"name": "394_png"
+		},
+		{
+			"url": "translate/398.png",
+			"type": "image",
+			"name": "398_png"
+		},
+		{
+			"url": "translate/402.png",
+			"type": "image",
+			"name": "402_png"
+		},
+		{
+			"url": "translate/406.png",
+			"type": "image",
+			"name": "406_png"
+		},
+		{
+			"url": "translate/410.png",
+			"type": "image",
+			"name": "410_png"
+		},
+		{
+			"url": "translate/414.png",
+			"type": "image",
+			"name": "414_png"
+		},
+		{
+			"url": "translate/418.png",
+			"type": "image",
+			"name": "418_png"
+		},
+		{
+			"url": "translate/42.png",
+			"type": "image",
+			"name": "42_png"
+		},
+		{
+			"url": "translate/422.png",
+			"type": "image",
+			"name": "422_png"
+		},
+		{
+			"url": "translate/426.png",
+			"type": "image",
+			"name": "426_png"
+		},
+		{
+			"url": "translate/430.png",
+			"type": "image",
+			"name": "430_png"
+		},
+		{
+			"url": "translate/434.png",
+			"type": "image",
+			"name": "434_png"
+		},
+		{
+			"url": "translate/438.png",
+			"type": "image",
+			"name": "438_png"
+		},
+		{
+			"url": "translate/442.png",
+			"type": "image",
+			"name": "442_png"
+		},
+		{
+			"url": "translate/446.png",
+			"type": "image",
+			"name": "446_png"
+		},
+		{
+			"url": "translate/450.png",
+			"type": "image",
+			"name": "450_png"
+		},
+		{
+			"url": "translate/454.png",
+			"type": "image",
+			"name": "454_png"
+		},
+		{
+			"url": "translate/458.png",
+			"type": "image",
+			"name": "458_png"
+		},
+		{
+			"url": "translate/46.png",
+			"type": "image",
+			"name": "46_png"
+		},
+		{
+			"url": "translate/462.png",
+			"type": "image",
+			"name": "462_png"
+		},
+		{
+			"url": "translate/466.png",
+			"type": "image",
+			"name": "466_png"
+		},
+		{
+			"url": "translate/470.png",
+			"type": "image",
+			"name": "470_png"
+		},
+		{
+			"url": "translate/474.png",
+			"type": "image",
+			"name": "474_png"
+		},
+		{
+			"url": "translate/478.png",
+			"type": "image",
+			"name": "478_png"
+		},
+		{
+			"url": "translate/482.png",
+			"type": "image",
+			"name": "482_png"
+		},
+		{
+			"url": "translate/486.png",
+			"type": "image",
+			"name": "486_png"
+		},
+		{
+			"url": "translate/490.png",
+			"type": "image",
+			"name": "490_png"
+		},
+		{
+			"url": "translate/494.png",
+			"type": "image",
+			"name": "494_png"
+		},
+		{
+			"url": "translate/498.png",
+			"type": "image",
+			"name": "498_png"
+		},
+		{
+			"url": "translate/50.png",
+			"type": "image",
+			"name": "50_png"
+		},
+		{
+			"url": "translate/502.png",
+			"type": "image",
+			"name": "502_png"
+		},
+		{
+			"url": "translate/506.png",
+			"type": "image",
+			"name": "506_png"
+		},
+		{
+			"url": "translate/510.png",
+			"type": "image",
+			"name": "510_png"
+		},
+		{
+			"url": "translate/514.png",
+			"type": "image",
+			"name": "514_png"
+		},
+		{
+			"url": "translate/518.png",
+			"type": "image",
+			"name": "518_png"
+		},
+		{
+			"url": "translate/522.png",
+			"type": "image",
+			"name": "522_png"
+		},
+		{
+			"url": "translate/526.png",
+			"type": "image",
+			"name": "526_png"
+		},
+		{
+			"url": "translate/530.png",
+			"type": "image",
+			"name": "530_png"
+		},
+		{
+			"url": "translate/534.png",
+			"type": "image",
+			"name": "534_png"
+		},
+		{
+			"url": "translate/538.png",
+			"type": "image",
+			"name": "538_png"
+		},
+		{
+			"url": "translate/54.png",
+			"type": "image",
+			"name": "54_png"
+		},
+		{
+			"url": "translate/542.png",
+			"type": "image",
+			"name": "542_png"
+		},
+		{
+			"url": "translate/546.png",
+			"type": "image",
+			"name": "546_png"
+		},
+		{
+			"url": "translate/550.png",
+			"type": "image",
+			"name": "550_png"
+		},
+		{
+			"url": "translate/554.png",
+			"type": "image",
+			"name": "554_png"
+		},
+		{
+			"url": "translate/58.png",
+			"type": "image",
+			"name": "58_png"
+		},
+		{
+			"url": "translate/62.png",
+			"type": "image",
+			"name": "62_png"
+		},
+		{
+			"url": "translate/66.png",
+			"type": "image",
+			"name": "66_png"
+		},
+		{
+			"url": "translate/70.png",
+			"type": "image",
+			"name": "70_png"
+		},
+		{
+			"url": "translate/74.png",
+			"type": "image",
+			"name": "74_png"
+		},
+		{
+			"url": "translate/78.png",
+			"type": "image",
+			"name": "78_png"
+		},
+		{
+			"url": "translate/82.png",
+			"type": "image",
+			"name": "82_png"
+		},
+		{
+			"url": "translate/86.png",
+			"type": "image",
+			"name": "86_png"
+		},
+		{
+			"url": "translate/90.png",
+			"type": "image",
+			"name": "90_png"
+		},
+		{
+			"url": "translate/94.png",
+			"type": "image",
+			"name": "94_png"
+		},
+		{
+			"url": "translate/98.png",
+			"type": "image",
+			"name": "98_png"
+		},
+		{
+			"url": "avatar/302/g_302.png",
+			"type": "image",
+			"name": "g_302_png"
+		},
+		{
+			"url": "avatar/302/g_302.json",
+			"type": "json",
+			"name": "g_302_json"
+		},
+		{
+			"url": "avatar/303/303.png",
+			"type": "image",
+			"name": "303_png"
+		},
+		{
+			"url": "avatar/303/303.json",
+			"type": "json",
+			"name": "303_json"
+		},
+		{
+			"url": "avatar/304/304.png",
+			"type": "image",
+			"name": "304_png"
+		},
+		{
+			"url": "avatar/304/304.json",
+			"type": "json",
+			"name": "304_json"
+		},
+		{
+			"url": "avatar/401/401.png",
+			"type": "image",
+			"name": "401_png"
+		},
+		{
+			"url": "avatar/401/401.json",
+			"type": "json",
+			"name": "401_json"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{"file":"pause.png","frames":{
+"play_replay":{"x":133,"y":364,"w":131,"h":123,"offX":0,"offY":0,"sourceW":131,"sourceH":123},
+"play_replay_un":{"x":0,"y":364,"w":131,"h":123,"offX":0,"offY":0,"sourceW":131,"sourceH":123},
+"play_star":{"x":602,"y":364,"w":90,"h":111,"offX":0,"offY":0,"sourceW":90,"sourceH":111},
+"play_star_un":{"x":510,"y":364,"w":90,"h":111,"offX":0,"offY":0,"sourceW":90,"sourceH":111},
+"play_back":{"x":0,"y":0,"w":807,"h":362,"offX":9,"offY":9,"sourceW":824,"sourceH":377},
+"play_menu":{"x":266,"y":364,"w":120,"h":111,"offX":0,"offY":0,"sourceW":120,"sourceH":111},
+"play_menu_un":{"x":388,"y":364,"w":120,"h":111,"offX":0,"offY":0,"sourceW":120,"sourceH":111}}}
